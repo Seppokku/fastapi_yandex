@@ -1,8 +1,0 @@
-streamlit
-numpy 
-pytorch
-uvicorn
-fastapi
-pydantic
-torchvision
-transformers

@@ -1,6 +1,6 @@
 streamlit
 numpy 
-pytorch
+torch
 uvicorn
 fastapi
 pydantic
